@@ -1,0 +1,6 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://storiesbirds.com/sitemap-index.xml
