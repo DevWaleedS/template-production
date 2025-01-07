@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://albahi-store.com/sitemap-index.xml
+Sitemap: https://alcinderella-store.com/sitemap-index.xml
