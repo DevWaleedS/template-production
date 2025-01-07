@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://atlbha-store.com/sitemap-index.xml
+Sitemap: https://ahilahum-store.com/sitemap-index.xml
